@@ -1,0 +1,7 @@
+project_id = "ivefdcxintjpjisunnhy"
+
+[functions.leo-ai-chat]
+verify_jwt = true
+
+[functions.migrate-images-to-storage]
+verify_jwt = true
